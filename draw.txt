@@ -1,0 +1,6 @@
+                        DJANGO
+                          |                      
+                    (category object)
+                         _|_
+                        /   \
+                       id1  None
